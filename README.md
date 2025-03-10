@@ -1,2 +1,3 @@
 # TELEGRAMBOT
 бот для тг с старкойнами
+TELEGRAM_BOT_API_7991412640:AAGgSJNF4ry_reu62mJvvKxeWAcD5b2YAaQ
